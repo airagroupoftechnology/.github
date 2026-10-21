@@ -84,7 +84,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 [![Cloud Portal](https://img.shields.io/badge/Cloud_Portal-airagroupcompnay.puter.site-9C27B0?style=for-the-badge&logo=cloud&logoColor=white)](https://airagroupcompnay.puter.site/)
 [![Founder Profile](https://img.shields.io/badge/Founder_GitHub-@adameehanairagroup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adameehanairagroup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
-[![Email](https://img.shields.io/badge/Contact_Email-support@airaai.work.gd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@airagroup.tech)
+[![Email](https://img.shields.io/badge/Contact_Email-support@airaai.work.gd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@airaai.work.gd)
 
 <br/>
 

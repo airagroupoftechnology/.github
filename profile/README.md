@@ -15,6 +15,7 @@
 [![Flagship](https://img.shields.io/badge/Flagship-AiraLang_v1.6.0-00C853?style=for-the-badge&logo=code&logoColor=white)](https://github.com/airagroupoftechnology/Airalang)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg)](https://doi.org/10.5281/zenodo.21546006)
 [![Verified Credentials](https://img.shields.io/badge/Google_Cloud-Verified_MLOps-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982)
+[![AIRA AI Sentinel](https://img.shields.io/badge/AI_Moderator-@AIRA--Sentinel_ACTIVE-00f2fe?style=for-the-badge&logo=githubactions&logoColor=black)](#-autonomous-ai-sentinel--moderator)
 
 <br/>
 
@@ -73,6 +74,24 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | **[Aira-AI-Non-Trained](https://github.com/airagroupoftechnology/Aira-AI-Non-Trained)** | Build and train your own Small Language Model (SLM) from first principles. | `Open-Source` 🧠 |
 
 </div>
+
+---
+
+## 🛡️ Autonomous AI Sentinel & Moderator
+
+<div align="center">
+
+[![AIRA Sentinel](https://img.shields.io/badge/Autonomous_Sentinel-@AIRA--Sentinel-00f2fe?style=for-the-badge&logo=shield&logoColor=black)](#)
+[![Status](https://img.shields.io/badge/Governance-ACTIVE_24%2F7-00C853?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Engine](https://img.shields.io/badge/Engine-Aira_3_Ultra_v3.6-7928CA?style=for-the-badge&logo=cpu&logoColor=white)](#)
+
+</div>
+
+All open-source repositories under **Aira Group of Technology** are actively guarded and triaged by **`@AIRA-Sentinel`** — our sovereign AI continuous integration sentinel:
+
+- 🔍 **Automated PR Reviews:** Inbound pull requests are instantly analyzed for architectural hygiene, AST structure, prompt-injection vectors, and coding conventions before human merge.
+- ⚡ **Issue Triage & Labeling:** Community issues receive instant triage tagging (`triage`, `community`), diagnostic checks, and direct escalation to **Er. Adam Eehan**.
+- 🌐 **Open Community Welcoming:** First-time contributors are guided with repository-specific documentation links to foster global open-source collaboration.
 
 ---
 

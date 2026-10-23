@@ -42,6 +42,20 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 
 ---
 
+## 📜 The Sovereign Open-Source Covenant & Global Charter
+### *"The Eternal Promise of Er. Adam Eehan (Founder & CEO)"*
+
+> *"No matter how multi-billion dollar Aira Group of Technology becomes in the future, we make an unbreakable public covenant to humanity: Every Software, Sovereign AI Model, Operating System (Airlys), Cloud Infrastructure, or Programming Language (AiraLang) we invent will ALWAYS maintain a parallel, 100% Free Open-Source counterpart for students and developers worldwide.*
+> 
+> *Commercial enterprise corporations in affluent Western markets will fund our global research through full enterprise pricing, and those revenues will permanently guarantee 100% LIFETIME Free compute, software, and tools for students, broke dreamers in India, developing nations, and verified low-income youth across all countries.*
+> 
+> *We know the roots we came from. We will never lock the doors behind us."*
+> 
+> **— Er. Adam Eehan**  
+> *Founder, Chairman & CEO, Aira Group of Technology*
+
+---
+
 ## 🏛️ Strategic Technology Pillars
 
 <div align="center">

@@ -65,6 +65,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | **[Airalang](https://github.com/airagroupoftechnology/Airalang)** | The world's first AI-Native programming language with in-compiler directives and self-healing syntax. | `Production v1.6.0` ⚡ |
+| **[Airlys](https://github.com/airagroupoftechnology/Airlys)** | 64-Bit Sovereign AI-Native Monolithic OS Kernel engineered from first principles (Multiboot 1 & 2 compliant). | `Genesis v0.1.0` 🦅 |
 | **[Aira-AI-Endpoint](https://github.com/airagroupoftechnology/Aira-AI-Endpoint)** | Sovereign zero-dependency local AI server & OpenAI-compatible gateway (Port 8080). | `Active` 🟢 |
 | **[Aira-CLI-Kit](https://github.com/airagroupoftechnology/Aira-CLI-Kit)** | Transform any AI API or LLM into a professional, production-grade CLI application. | `Open-Source` 🛠️ |
 | **[AiraScan](https://github.com/airagroupoftechnology/AiraScan)** | Institutional web security & vulnerability auditor built natively in 100% pure AiraLang. | `Open-Source` 🛡️ |

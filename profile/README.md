@@ -62,7 +62,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 
 | Pillar | Focus | Technology & Architecture |
 | :--- | :--- | :--- |
-| **Compiler & Systems** | Independent Systems Programming | **AiraLang v1.6.0** — AI-native compiler with in-code `@airaai` directives, Self-Healing Red Semicolon Doctor, and Zero-Key Swarm. |
+| **Compiler & Systems** | Independent Systems Programming | **AiraLang v1.6.0** & **aira-core (AiraAST)** — AI-native compiler and bare-metal multi-OS C99 AI inference runtime (Android, Windows, Linux, Airlys OS). |
 | **Sovereign Intelligence** | Zero-Dependency AI Gateways | **Aira-AI-Endpoint** & **Aira-AI-Non-Trained** — Offline drop-in OpenAI-compatible servers, Small Language Models (SLMs) built from scratch. |
 | **Cybersecurity Defense** | Defensive Posture & Recon | **AiraScan** & Google VRP research — Institutional web security audits, prompt-injection honeypotting, AST vulnerability analysis. |
 | **Humanitarian Telecom** | Blackout & Offline EdTech Nodes | **Aira-Telecom** — Sovereign private 4G/5G cellular core (Open5GS + SDR + ESP32) engineered for disconnected educational environments. |
@@ -80,6 +80,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | :--- | :--- | :--- |
 | **[Airalang](https://github.com/airagroupoftechnology/Airalang)** | The world's first AI-Native programming language with in-compiler directives and self-healing syntax. | `Production v1.6.0` ⚡ |
 | **[Airlys](https://github.com/airagroupoftechnology/Airlys)** | 64-Bit Sovereign AI-Native Monolithic OS Kernel engineered from first principles (Multiboot 1 & 2 compliant). | `Genesis v0.1.0` 🦅 |
+| **[aira-core (AiraAST)](https://github.com/airagroupoftechnology/aira-core)** | Sovereign Edge AI Inference Engine (C99) for Android, Windows, Linux & Airlys OS. Built for Indian students & devs. | `Active` 🇮🇳 |
 | **[Aira-AI-Endpoint](https://github.com/airagroupoftechnology/Aira-AI-Endpoint)** | Sovereign zero-dependency local AI server & OpenAI-compatible gateway (Port 8080). | `Active` 🟢 |
 | **[Aira-CLI-Kit](https://github.com/airagroupoftechnology/Aira-CLI-Kit)** | Transform any AI API or LLM into a professional, production-grade CLI application. | `Open-Source` 🛠️ |
 | **[AiraScan](https://github.com/airagroupoftechnology/AiraScan)** | Institutional web security & vulnerability auditor built natively in 100% pure AiraLang. | `Open-Source` 🛡️ |

@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://adameehantech.gitlab.io/airalang-website/">
+  <a href="https://airaaigroup.in">
     <img src="assets/logo.jpg" width="180" height="180" alt="Aira Group of Technology Official Crest" style="border-radius: 50%;" />
   </a>
 </p>
@@ -39,6 +39,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 * 🔬 **Registered Research:** CERN / Zenodo Open Science Repository — [DOI: 10.5281/zenodo.21546006](https://doi.org/10.5281/zenodo.21546006)
 * 🛡️ **Cybersecurity Research:** Google VRP Security Disclosure (Reference ID: `493408185`)
 * 🌐 **Global Headquarters:** India • Global Remote Operations
+* 🚀 **Official Web Platform:** [https://airaaigroup.in](https://airaaigroup.in)
 
 ---
 
@@ -115,11 +116,10 @@ All open-source repositories under **Aira Group of Technology** are actively gua
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Official_Website-airalang--website-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://adameehantech.gitlab.io/airalang-website/)
-[![Cloud Portal](https://img.shields.io/badge/Cloud_Portal-airagroupcompnay.puter.site-9C27B0?style=for-the-badge&logo=cloud&logoColor=white)](https://airagroupcompnay.puter.site/)
+[![Official Website](https://img.shields.io/badge/Official_Website-airaaigroup.in-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://airaaigroup.in)
 [![Founder Profile](https://img.shields.io/badge/Founder_GitHub-@adameehanairagroup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adameehanairagroup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
-[![Email](https://img.shields.io/badge/Contact_Email-support@airaai.work.gd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@airaai.work.gd)
+[![Corporate Email](https://img.shields.io/badge/Corporate_Email-adameehanaira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adameehanaira@gmail.com)
 
 <br/>
 

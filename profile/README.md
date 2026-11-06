@@ -66,7 +66,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | **Compiler & Systems** | Independent Systems Programming | **AiraLang v1.6.0** & **aira-core (AiraAST)** — AI-native compiler and bare-metal multi-OS C99 AI inference runtime (Android, Windows, Linux, Airlys OS). |
 | **Sovereign Intelligence** | Zero-Dependency AI Gateways | **Aira-AI-Endpoint** & **Aira-AI-Non-Trained** — Offline drop-in OpenAI-compatible servers, Small Language Models (SLMs) built from scratch. |
 | **Cybersecurity Defense** | Defensive Posture & Recon | **AiraScan** & Google VRP research — Institutional web security audits, prompt-injection honeypotting, AST vulnerability analysis. |
-| **Humanitarian Telecom** | Blackout & Offline EdTech Nodes | **Aira-Telecom** — Sovereign private 4G/5G cellular core (Open5GS + SDR + ESP32) engineered for disconnected educational environments. |
+| **Humanitarian Telecom** | Blackout & Offline EdTech Nodes | **Aira-Telecom** & **Aira-Swarm-Cellular** — Sovereign autonomous zero-backhaul 4G/5G mesh cellular core (Milenage AKA + GTP-U + CRDT-HSS + VoLTE). |
 | **Developer Frameworks** | Production CLI & Mobile Runtime | **Aira-CLI-Kit** & **Aira-Android** — Instant AI CLI generator and Mobile Studio IDE APK for rapid on-device execution. |
 
 </div>
@@ -86,6 +86,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | **[Aira-CLI-Kit](https://github.com/airagroupoftechnology/Aira-CLI-Kit)** | Transform any AI API or LLM into a professional, production-grade CLI application. | `Open-Source` 🛠️ |
 | **[AiraScan](https://github.com/airagroupoftechnology/AiraScan)** | Institutional web security & vulnerability auditor built natively in 100% pure AiraLang. | `Open-Source` 🛡️ |
 | **[Aira-Telecom](https://github.com/airagroupoftechnology/Aira-Telecom)** | Sovereign offline 4G/5G cellular core (Open5GS + SDR) for blackout educational networks. | `Production` 📡 |
+| **[Aira-Swarm-Cellular](https://github.com/adameehanairagroup/Aira-Swarm-Cellular)** | Sovereign autonomous zero-backhaul 4G/5G mesh cellular core & VoLTE softswitch. | `Open-Source` 🛰️ |
 | **[Aira-Android](https://github.com/airagroupoftechnology/Aira-Android)** | AiraLang Mobile Studio IDE APK and Android system introspection runtime. | `Stable` 📱 |
 | **[Aira-Ai-for-students](https://github.com/airagroupoftechnology/Aira-Ai-for-students)** | Student-focused open-source AI educational & algorithmic coding assistant. | `Open-Source` 🎓 |
 | **[Aira-AI-Non-Trained](https://github.com/airagroupoftechnology/Aira-AI-Non-Trained)** | Build and train your own Small Language Model (SLM) from first principles. | `Open-Source` 🧠 |

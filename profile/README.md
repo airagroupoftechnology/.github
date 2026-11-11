@@ -65,7 +65,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | :--- | :--- | :--- |
 | **Compiler & Systems** | Independent Systems Programming | **AiraLang v1.6.0** & **aira-core (AiraAST)** — AI-native compiler and bare-metal multi-OS C99 AI inference runtime (Android, Windows, Linux, Airlys OS). |
 | **Sovereign Intelligence** | Zero-Dependency AI Gateways | **Aira-AI-Endpoint** & **Aira-AI-Non-Trained** — Offline drop-in OpenAI-compatible servers, Small Language Models (SLMs) built from scratch. |
-| **Cybersecurity Defense** | Defensive Posture & Recon | **AiraScan** & Google VRP research — Institutional web security audits, prompt-injection honeypotting, AST vulnerability analysis. |
+| **Cybersecurity Defense** | Defensive Posture & Recon | **Aira-Cyber-Defender-AI (7B)**, **AiraScan** & Google VRP research — Autonomous CVE auditing, vulnerability discovery, prompt-injection honeypotting, AST vulnerability analysis. |
 | **Humanitarian Telecom** | Blackout & Offline EdTech Nodes | **Aira-Telecom** & **Aira-Swarm-Cellular** — Sovereign autonomous zero-backhaul 4G/5G mesh cellular core (Milenage AKA + GTP-U + CRDT-HSS + VoLTE). |
 | **Developer Frameworks** | Production CLI & Mobile Runtime | **Aira-CLI-Kit** & **Aira-Android** — Instant AI CLI generator and Mobile Studio IDE APK for rapid on-device execution. |
 
@@ -84,6 +84,7 @@ Our mission is to engineer zero-dependency, self-healing computing environments,
 | **[aira-core (AiraAST)](https://github.com/airagroupoftechnology/aira-core)** | Sovereign Edge AI Inference Engine (C99) for Android, Windows, Linux & Airlys OS. Built for Indian students & devs. | `Active` 🇮🇳 |
 | **[Aira-AI-Endpoint](https://github.com/airagroupoftechnology/Aira-AI-Endpoint)** | Sovereign zero-dependency local AI server & OpenAI-compatible gateway (Port 8080). | `Active` 🟢 |
 | **[Aira-CLI-Kit](https://github.com/airagroupoftechnology/Aira-CLI-Kit)** | Transform any AI API or LLM into a professional, production-grade CLI application. | `Open-Source` 🛠️ |
+| **[Aira-Cyber-Defender-AI](https://github.com/airagroupoftechnology/Aira-Cyber-Defender-AI)** | Sovereign 7B cybersecurity intelligence, exploit mechanics & defensive vulnerability audit engine (GGUF). | `Production 7B` 🛡️ |
 | **[AiraScan](https://github.com/airagroupoftechnology/AiraScan)** | Institutional web security & vulnerability auditor built natively in 100% pure AiraLang. | `Open-Source` 🛡️ |
 | **[Aira-Telecom](https://github.com/airagroupoftechnology/Aira-Telecom)** | Sovereign offline 4G/5G cellular core (Open5GS + SDR) for blackout educational networks. | `Production` 📡 |
 | **[Aira-Swarm-Cellular](https://github.com/adameehanairagroup/Aira-Swarm-Cellular)** | Sovereign autonomous zero-backhaul 4G/5G mesh cellular core & VoLTE softswitch. | `Open-Source` 🛰️ |
